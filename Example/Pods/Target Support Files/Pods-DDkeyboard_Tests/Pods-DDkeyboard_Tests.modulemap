@@ -1,0 +1,6 @@
+framework module Pods_DDkeyboard_Tests {
+  umbrella header "Pods-DDkeyboard_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module DDkeyboard {
+  umbrella header "DDkeyboard-umbrella.h"
+
+  export *
+  module * { export * }
+}
